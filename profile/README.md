@@ -26,7 +26,7 @@ Desktop apps that take the busywork out of making games, so you can spend your t
       <p><a href="https://ryko.is-a.dev/godothub">Website</a> · <a href="https://github.com/Rykode/GodotHub/releases/latest">Download</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://ryko.is-a.dev/onyx">Onyx</a></h3>
+      <h3><a href="https://github.com/Rykode/OnyxSteamworks">Onyx</a></h3>
       <p>A native desktop app for shipping your game to Steam, without hand-edited VDF files or long SteamCMD command lines.</p>
       <p>Guided builds with preflight checks, a secret scanner, manifest diffs, upload verification and backups, plus pipelines that also run headless from CI.</p>
       <p><b>Windows</b> · Written in Rust</p>
@@ -39,7 +39,7 @@ Desktop apps that take the busywork out of making games, so you can spend your t
 
 ## About
 
-Rykode is run by **Rayyan Aziz**, also known as **Ryko**: a game developer and team lead at [Silver Demon Studios](https://ryko.is-a.dev), where I make games like *The Void Project* and *Barely a Driver*.
+Rykode is run by **Rayyan Aziz**, also known as **Ryko**: a game developer and team lead at Silver Demon Studios, where I make games like *The Void Project* and *Barely a Driver*.
 
 The tools here started as things I needed for my own games. Most of my work happens in Godot, Unity and Figma, and when a part of the workflow kept getting in the way, I built something to fix it.
 
