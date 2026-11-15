@@ -30,7 +30,7 @@ Desktop apps that take the busywork out of making games, so you can spend your t
       <p>A native desktop app for shipping your game to Steam, without hand-edited VDF files or long SteamCMD command lines.</p>
       <p>Guided builds with preflight checks, a secret scanner, manifest diffs, upload verification and backups, plus pipelines that also run headless from CI.</p>
       <p><b>Windows</b> · Written in Rust</p>
-      <p><a href="https://ryko.is-a.dev/onyx">Website</a></p>
+      <p><a href="https://ryko.is-a.dev/onyx">Website</a> · <a href="https://github.com/Rykode/OnyxSteamworks/releases/latest">Download</a></p>
     </td>
   </tr>
 </table>
